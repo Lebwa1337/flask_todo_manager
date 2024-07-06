@@ -1,0 +1,4 @@
+.idea
+.venv
+instance/test.db
+__pycache__
